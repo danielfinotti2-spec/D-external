@@ -1,0 +1,27 @@
+# Visual Studio / build artifacts
+bin/
+obj/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.iobj
+*.ipdb
+*.log
+
+# Compiled binaries
+*.exe
+*.dll
+
+# User-specific
+*.vcxproj.user
+*.suo
+.vs/
+
+# Rebuild caches
+trash/
+trash_preview/
+
+# Temp
+*.tmp
+*.bak
